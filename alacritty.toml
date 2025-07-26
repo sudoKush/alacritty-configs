@@ -19,6 +19,5 @@ option_as_alt = "Both"
 
 [font]
 normal.family = "JetBrainsMono Nerd Font"
-
-size = 18
+size = 15
 
